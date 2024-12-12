@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "destination": "Maldives",
+      "description": "A perfect tropical beach paradise.",
+      "tags": ["beach", "summer"],
+      "image":"assets/images/maldives.jpg"
+
+    },
+    {
+      "id": 2,
+      "destination": "Mongolia",
+      "description": "An adventurous mountain trekking experience.",
+      "tags": ["temple", "adventure"],
+      "image":"assets/images/mongolia.jpg"
+    },
+    {
+      "id": 3,
+      "destination": "Paris",
+      "description": "Explore rich history and culture in the heart of Europe.",
+      "tags": ["country", "France"],
+      "image":"assets/images/paris.jpg"
+    },
+    {
+      "id": 4,
+      "destination": "Bora Bora",
+      "description": "Stunning beaches and crystal-clear waters.",
+      "tags": ["beach", "summer"],
+      "image":"assets/images/borabora.jpg"
+    },
+    {
+      "id": 5,
+      "destination": "London",
+      "description": "Explore The London football stadiums",
+      "tags": ["country", "Football"],
+      "image":"assets/images/fulham.jpeg"
+    },
+    {
+      "id": 6,
+      "destination": "China",
+      "description": "An adventurous experience.",
+      "tags": ["temple", "adventure"],
+      "image":"assets/images/china.webp"
+    }
+  ]
+  

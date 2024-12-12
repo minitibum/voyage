@@ -1,0 +1,80 @@
+.header{
+    width: 100vw;
+    height: 100vh;
+    background: url(https://tripjive.com/wp-content/uploads/2024/03/What-are-the-top-beaches-near-Havana-for-visitors.jpg) center/cover no-repeat;
+  }
+
+
+section {
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.team-members {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.team-member {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    text-align: center;
+}
+
+.team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.team-member h3 {
+    margin-top: 10px;
+    color: #333;
+}
+
+.team-member p {
+    font-size: 14px;
+    color: #777;
+}
+
+.contact-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+#recommendationsList {
+    float: right;
+    margin-right: 20px;
+    color: white;
+    width: 600px;
+    height: 900px; 
+    overflow-y: auto;
+}
+
+.homepage-intro {
+    color: white;
+    float: left;
+    justify-content: left;
+    padding: 20em;
+}
