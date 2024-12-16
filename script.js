@@ -1,7 +1,3 @@
-
-
-
-
 async function loadRecommendations() {
   try {
     const response = await fetch('travelRecommendations.json');
@@ -50,3 +46,6 @@ function searchRecommendations() {
 // Load recommendations when the page is ready
 window.onload = loadRecommendations;
 
+function clearInput() {
+  document.getElementById('clearButton').value = ''; // Clears the input field
+}
